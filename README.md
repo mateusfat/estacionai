@@ -22,6 +22,10 @@ Os botões de "Ver Mais" presentes nas Vagas e no Histórico ainda não estão f
 a visualização e mostrar as demais Vagas/Registros de Histórico caso existam. Como o objetivo é fazer algo simples para
 demonstrar tecnologias e funcionalidade não foram implementadas tais telas.
 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/50645873/160501619-ced3df25-930c-4a61-8542-f6d683199e20.png" width="400px" />
+</div>
+
 - Persistência dos dados / Banco de Dados:  Foi utilizada a tecnologia Cloud Firestore do Firebase, que possui funcionalidade
 com ou sem rede de internet disponível.
 
